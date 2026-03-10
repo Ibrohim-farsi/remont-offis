@@ -1,7 +1,7 @@
 <h1 align="center">REMONT OFFIS</h1>
 
-<p style="text-transform: uppercase;  text-align: center;">
-<b>Капитальный ремонт офисов – путь к успеху и престижу <br> по-новому</br>
+<p align="center">
+<b>Капитальный ремонт офисов – путь к успеху и престижу по-новому</b>
 </p>
 
 ![](./img/image.png)
@@ -20,5 +20,5 @@
 Чтобы скачать проект, выполните команду в Git Bash или CMD:
 </p>
 
-```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
+```
+git clone https://github.com/Ibrohim-farsi/remont-offis.git
