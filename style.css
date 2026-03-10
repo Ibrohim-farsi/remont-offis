@@ -1,3 +1,47 @@
 * {
     margin: 0%;
 }
+
+header {
+    position: fixed;
+    width: 100%;
+    background-color: white;
+    border-bottom: 1px solid #023047;
+    padding: 10px 0px;
+}
+
+nav {
+    width: 93%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.paraf-1 {
+    display: flex;
+    gap: 60px;
+    align-items: center;
+    color: #023047B2;
+}
+
+.h2-1 {
+    text-transform: lowercase;
+    font-size: 50px;
+    color: #023047;
+}
+
+.po-1 {
+    margin-left: -30px;
+}
+
+.p-2 {
+    font-size: 20px;
+    color: #023047;
+}
+
+.p-1 {
+    display: flex;
+    justify-content: end;
+    margin-bottom: 5px;
+}
