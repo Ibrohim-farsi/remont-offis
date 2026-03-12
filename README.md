@@ -1,16 +1,16 @@
 <h1 align="center">REMONT OFFIS</h1>
 
 <p align="center">
-<b>Капитальный ремонт офисов – путь к успеху и престижу по-новому</b>
-</p>
+<b>Получите глобальную визу для талантливых специалистов и переезжайте в Великобританию. Начните свой путь прямо сейчас!</p>
 
-![](./img/image.png)
+![](./img/images.png)
 
 <p>
 <b>ВЕБ-САЙТ СОЗДАН С ИСПОЛЬЗОВАНИЕМ ТЕХНОЛОГИЙ</b><br>
 
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-blue)
+
 </p> 
 <br>
 
@@ -22,3 +22,4 @@
 
 ```
 git clone https://github.com/Ibrohim-farsi/remont-offis.git
+```
